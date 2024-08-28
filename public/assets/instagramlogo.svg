@@ -1,0 +1,15 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st1{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<path d="M23,17.66c0,2.95-2.39,5.34-5.34,5.34H6.34C3.39,23,1,20.61,1,17.66V6.34C1,3.39,3.39,1,6.34,1h11.33
+		C20.61,1,23,3.39,23,6.34V17.66z" fill="none" stroke="#d1d5db" stroke-width="1px" stroke-linecap="round" stroke-miterlimit="10"></path>
+	<path d="M17.85,12c0,3.23-2.62,5.85-5.85,5.85c-3.23,0-5.85-2.62-5.85-5.85c0-3.23,2.62-5.85,5.85-5.85
+		C15.23,6.15,17.85,8.77,17.85,12z" fill="none" stroke="#d1d5db" stroke-width="1px" stroke-linecap="round" stroke-miterlimit="10"></path>
+	<path d="M18.97,5.45c0,0.23-0.19,0.42-0.42,0.42c-0.23,0-0.42-0.19-0.42-0.42c0-0.23,0.19-0.42,0.42-0.42
+		C18.78,5.03,18.97,5.22,18.97,5.45z" fill="none" stroke="#d1d5db" stroke-width="1px" stroke-linecap="round" stroke-miterlimit="10"></path>
+</g>
+</svg>
