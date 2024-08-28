@@ -26,7 +26,7 @@ export const Hero = () => {
         <p className="text-pretty">
           Hi there, I'm Lance Moncis, an indie software developer crafting
           visually appealing user interfaces and building products that are both
-          functional and delightful to use.
+          functional and easy to use.
         </p>
       </div>
       <div className="flex gap-6 justify-start w-full">
