@@ -5,10 +5,10 @@ import { Projects } from "@/components/home/projects";
 
 export default function Home() {
   return (
-    <main className="max-w-xs md:max-w-[700px] mx-auto">
+    <div className="max-w-xs md:max-w-[700px] mx-auto">
       <Hero />
       <Experience />
       <Projects />
-    </main>
+    </div>
   );
 }
