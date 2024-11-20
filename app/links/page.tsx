@@ -60,7 +60,7 @@ export default function Links() {
             <li className="w-full">
               <Link href={"https://github.com/lanzmoncis/"} target="_blank">
                 <div className="py-4 bg-gray-900/80 hover:bg-gray-800/30 duration-300 w-full text-center rounded-2xl">
-                  Latest Projects
+                  Latest projects
                 </div>
               </Link>
             </li>
@@ -82,7 +82,7 @@ export default function Links() {
                 target="_blank"
               >
                 <div className="py-4 bg-gray-900/80 hover:bg-gray-800/30 duration-300 w-full text-center rounded-2xl">
-                  Let's make Playlists
+                  Let's make playlist
                 </div>
               </Link>
             </li>

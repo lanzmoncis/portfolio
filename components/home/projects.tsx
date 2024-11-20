@@ -17,7 +17,7 @@ export const Projects = () => {
             <div className="space-y-6 md:space-y-3 text-sm text-inherit">
               <div>
                 <Link href={"https://shifty-opal.vercel.app/"} target="_blank">
-                  <div className="uppercase hover:text-gray-100 duration-700 flex gap-3 items-center">
+                  <div className="uppercase hover:text-gray-100 duration-300 flex gap-3 items-center">
                     <Image
                       src={ArrowRight}
                       alt="arrow top on square"
@@ -32,7 +32,7 @@ export const Projects = () => {
                   href={"https://github.com/lanzmoncis/rota-builder"}
                   target="_blank"
                 >
-                  <div className="uppercase hover:text-gray-100 duration-700 flex gap-3 items-center">
+                  <div className="uppercase hover:text-gray-100 duration-300 flex gap-3 items-center">
                     <Image
                       src={ArrowRight}
                       alt="arrow top on square"
@@ -57,7 +57,7 @@ export const Projects = () => {
                   href={"https://ecommerce-rust-rho.vercel.app/"}
                   target="_blank"
                 >
-                  <div className="uppercase hover:text-gray-100 duration-700 flex gap-3 items-center">
+                  <div className="uppercase hover:text-gray-100 duration-300 flex gap-3 items-center">
                     <Image
                       src={ArrowRight}
                       alt="arrow top on square"
@@ -72,7 +72,7 @@ export const Projects = () => {
                   href={"https://github.com/lanzmoncis/ecommerce"}
                   target="_blank"
                 >
-                  <div className="uppercase hover:text-gray-100 duration-700 flex gap-3 items-center">
+                  <div className="uppercase hover:text-gray-100 duration-300 flex gap-3 items-center">
                     <Image
                       src={ArrowRight}
                       alt="arrow top on square"
